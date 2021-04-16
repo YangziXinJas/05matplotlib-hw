@@ -1,2 +1,2 @@
-# 05matplotlib-hw
+# matplotlib
 the power of plots
